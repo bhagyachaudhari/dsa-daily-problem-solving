@@ -1,7 +1,6 @@
-package org.example.arrayexamples;
+package org.example.arrays;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class TwoDSubArray {
 

@@ -1,4 +1,4 @@
-package org.example.arrayexamples;
+package org.example.arrays;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

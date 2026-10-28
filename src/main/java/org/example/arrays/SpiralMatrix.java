@@ -1,4 +1,4 @@
-package org.example.arrayexamples;
+package org.example.arrays;
 
 public class SpiralMatrix {
 
